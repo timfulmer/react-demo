@@ -1,0 +1,51 @@
+{
+  "givenState": {
+    "headerData": [
+      "30%",
+      "$2000000",
+      "85%"
+    ],
+    "contentA": "This should be displayed in Panel A. This is visible by default",
+    "contentB": "This should be displayed in Panel B. This should be hidden by default"
+  },
+  "componentsState": {
+    "0": {
+      "name": "component1",
+      "contentPanelClassName": "contentEnabled",
+      "buttonText": "-",
+      "panelAClassName": "enabled",
+      "panelBClassName": "disabled"
+    },
+    "1": {
+      "name": "component2",
+      "contentPanelClassName": "contentEnabled",
+      "buttonText": "-",
+      "panelAClassName": "enabled",
+      "panelBClassName": "disabled"
+    },
+    "2": {
+      "name": "component3",
+      "contentPanelClassName": "contentEnabled",
+      "buttonText": "-",
+      "panelAClassName": "enabled",
+      "panelBClassName": "disabled"
+    },
+    "3": {
+      "name": "component4",
+      "contentPanelClassName": "contentEnabled",
+      "buttonText": "-",
+      "panelAClassName": "enabled",
+      "panelBClassName": "disabled"
+    },
+    "4": {
+      "name": "component5",
+      "contentPanelClassName": "contentEnabled",
+      "buttonText": "-",
+      "panelAClassName": "enabled",
+      "panelBClassName": "disabled"
+    },
+    "componentsState": {
+      "updatedState": {}
+    }
+  }
+}

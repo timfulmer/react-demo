@@ -1,0 +1,27 @@
+div.panel {
+    height: 300px;
+    width: 250px;
+    display: table-cell;
+    border:1px dotted black;
+}
+
+div.content {
+    display: table;
+    overflow: hidden;
+    width: 600px;
+    border-collapse:separate;
+    border-spacing:25px;
+}
+
+div.disabled {
+    background-color: #EEEEEE;
+}
+div.contentDisabled {
+    display: none;
+}
+span.disabled {
+    display: none;
+}
+
+div.enabled {
+}

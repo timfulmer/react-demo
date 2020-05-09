@@ -1,0 +1,8 @@
+div.framed {
+    border:1px solid black;
+}
+div.app {
+    width: 600px;
+    height: 600px;
+    margin: 75px;
+}

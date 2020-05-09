@@ -1,0 +1,19 @@
+ul.nav {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    width: 140px;
+}
+
+li.right{
+    float: right;
+}
+
+div.header {
+    width: 600px;
+}
+div.component {
+    margin-bottom: 25px;
+}
